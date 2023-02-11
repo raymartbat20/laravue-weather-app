@@ -1,6 +1,6 @@
-./laravel-backend/vendor/
+laravel-backend/vendor/
 
-./vue-frontend/node_modules/
+vue-frontend/node_modules/
 npm-debug.log
 yarn-error.log
 
